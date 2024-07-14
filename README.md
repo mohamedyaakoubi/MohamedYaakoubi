@@ -32,9 +32,6 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 - **LinkedIn:** [Mohamed Yaakoubi](https://www.linkedin.com/in/yaakoubi-mohamed/)
 - **Location:** Sfax, Tunisia
 
-### 😄 Pronouns:
-- He/Him
-
 ### ⚡ Fun fact:
 - I love traveling, camping, playing chess, and gaming in my free time!
 
