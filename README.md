@@ -2,7 +2,7 @@
 
 I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills quickly. I'm hardworking and hungry for knowledge. I seek a challenging environment that encourages and provides exposure to new ideas, doing it to the best of my conscience and knowledge which stimulates personal and professional growth.
 
-### 🔭 I’m currently working on:
+### 🔭 I’m currently working in:
 - Freelance Editor (Arabic to English & English to Arabic) at Unbabel
 - Crowdsourced Data Contributor at Premise
 - Freelance AI Data Annotator at Toloka
@@ -14,7 +14,6 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 
 ### 👯 I’m looking to collaborate on:
 - AI and machine learning projects
-- Open-source translation projects
 - Web development and software development projects
 
 ### 🤔 I’m looking for help with:
