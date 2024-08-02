@@ -37,7 +37,9 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaakoubi-mohamed/)
-## 🌟 [Portfolio](https://mohamedyaakoubi.github.io/MohamedYaakoubi/)
+## 🌟 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=portfolio&logoColor=61DAFB)](https://mohamedyaakoubi.github.io/MohamedYaakoubi/)
+
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
