@@ -12,7 +12,6 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 ### 🌱 I’m currently learning:
 - Fullstack Web Development through a bootcamp "Mentor Nations, Develope for Nations" ( HTML, CSS, JS, Typescript, React, and firebase ) 
 - AI fundementals
-- 
 
 ### 👯 I’m looking to collaborate on:
 - AI and machine learning projects
