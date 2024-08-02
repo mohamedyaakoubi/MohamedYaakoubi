@@ -1,4 +1,5 @@
-## Hi there 👋
+[![](https://visitcount.itsvg.in/api?id=mohamedyaakoubi&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+# Hi there 👋
 
 I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills quickly. I'm hardworking and hungry for knowledge. I seek a challenging environment that encourages and provides exposure to new ideas, doing it to the best of my conscience and knowledge which stimulates personal and professional growth.
 
