@@ -10,8 +10,8 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 - TED Translator Volunteer at TED Translators
 
 ### 🌱 I’m currently learning:
-- Fullstack Web Development through a bootcamp "Mentor Nations, Develope for Nations" ( HTML, CSS, JS, Typescript, React, and firebase ) 
-- AI fundementals
+- Fullstack Web Development through a bootcamp "Mentor Nations, Develope for Nations" ( HTML, CSS, JS, Typescript, React, firebase and devops ) 
+- AI Fundamentals with IBM
 
 ### 👯 I’m looking to collaborate on:
 - AI and machine learning projects
