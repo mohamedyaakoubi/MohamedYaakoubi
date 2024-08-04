@@ -53,6 +53,15 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+## Badges
+
+### AI Fundamentals Badge
+I have completed the **Artificial Intelligence Fundamentals** course. Here is my badge:
+
+<img src="artificial-intelligence-fundamentals (3).png" alt="AI Fundamentals Badge"/>
+
+For more details, you can view the badge on [Credly](https://www.credly.com/badges/4ded1472-5a10-4b7d-ba8a-fae8458d2fa9/public_url) and for [verification](https://www.credly.com/go/FuFICNPo).
+
 
 ## 📊 GitHub Stats
 
