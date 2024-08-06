@@ -1,5 +1,26 @@
 [![](https://visitcount.itsvg.in/api?id=mohamedyaakoubi&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
-# Hi there 👋
+
+![Banner](header.png)
+
+<!--❓- Intro-->
+<h3 style="text-align: center; position: relative;">
+  Welcome to My Profile! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <br>
+  <a href="https://git.io/typing-svg" style="display: block; text-align: right;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=971BC0&width=435&lines=Computer+science+student;AI+enthusiast;Fullstack+developer+(Beginner);Self-learnt" alt="Typing SVG" />
+  </a>
+</h3>
+
+
+
+
+
+
+
+
+
+
 
 I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills quickly. I'm hardworking and hungry for knowledge. I seek a challenging environment that encourages and provides exposure to new ideas, doing it to the best of my conscience and knowledge which stimulates personal and professional growth.
 
