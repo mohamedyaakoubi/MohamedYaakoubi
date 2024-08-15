@@ -76,7 +76,8 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 
 ## Badges
 
-<img src="artificial-intelligence-fundamentals (3).png" alt="AI Fundamentals Badge"/> <img src="networking-basics.png" alt="networking basics badge from Cisco"/>
+<img src="artificial-intelligence-fundamentals (3).png" alt="AI Fundamentals Badge"/> <img src="networking-basics.png" alt="networking basics badge from Cisco"/> <img src="introduction-to-cybersecurity.png" alt="networking basics badge from Cisco"/>
+
 
 
 For more details, you can view the badges on [Credly](https://www.credly.com/badges/4ded1472-5a10-4b7d-ba8a-fae8458d2fa9/public_url) and for [verification](https://www.credly.com/go/FuFICNPo).
