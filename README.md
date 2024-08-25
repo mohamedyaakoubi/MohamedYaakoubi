@@ -27,14 +27,14 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 - TED Translator Volunteer at TED Translators
 
 ### 🌱 I’m currently learning:
--Ethical Hacking with Cisco Networking Academy.                        
--Artificial Intelligence (AI) with Tunisia Virtual University (UVT).
+- Ethical Hacking with Cisco Networking Academy.                        
+- Artificial Intelligence (AI) with Tunisia Virtual University (UVT).
 
 ### 🎓✨ I finished learning:
--Fullstack Web Development through the "Mentor Nations, Develop for Nations" bootcamp, which covered HTML, CSS, JavaScript, TypeScript, React, Firebase, and DevOps.
--AI Fundamentals with IBM.
--Introduction to Cybersecurity and Networking Basics by Cisco Networking Academy.
--Introduction to 3D Printing through the American Corner Tunis.
+- Fullstack Web Development through the "Mentor Nations, Develop for Nations" bootcamp, which covered HTML, CSS, JavaScript, TypeScript, React, Firebase, and DevOps.                                 
+- AI Fundamentals with IBM.                        
+- Introduction to Cybersecurity and Networking Basics by Cisco Networking Academy.                            
+- Introduction to 3D Printing through the American Corner Tunis.
 
 ### 👯 I’m looking to collaborate on:
 - AI and machine learning projects
