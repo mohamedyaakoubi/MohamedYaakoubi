@@ -18,10 +18,6 @@
 
 
 
-
-
-
-
 I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills quickly. I'm hardworking and hungry for knowledge. I seek a challenging environment that encourages and provides exposure to new ideas, doing it to the best of my conscience and knowledge which stimulates personal and professional growth.
 
 ### 🔭 I’m currently working in:
@@ -31,8 +27,8 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 - TED Translator Volunteer at TED Translators
 
 ### 🌱 I’m currently learning:
--Ethical Hacking with Cisco Networking Academy.
--Artificial Intelligence (AI) with Tunisian Virtual University (UVT).
+-Ethical Hacking with Cisco Networking Academy.                        
+-Artificial Intelligence (AI) with Tunisia Virtual University (UVT).
 
 ### 🎓✨ I finished learning:
 -Fullstack Web Development through the "Mentor Nations, Develop for Nations" bootcamp, which covered HTML, CSS, JavaScript, TypeScript, React, Firebase, and DevOps.
