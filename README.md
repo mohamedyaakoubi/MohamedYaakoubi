@@ -25,6 +25,8 @@ I'm Mohamed Yaakoubi, a self-motivated, fast learner who picks up new skills qui
 - Crowdsourced Data Contributor at Premise
 - Freelance AI Data Annotator at Toloka
 - TED Translator Volunteer at TED Translators
+- Localization Vendor Coordinator at Uber, handling AI prompt evaluation, translation, and transcription
+- Language Data and Quality Reviewer at Volga Partners
 
 ### 🌱 I’m currently learning:
 - Ethical Hacking with Cisco Networking Academy.                        
