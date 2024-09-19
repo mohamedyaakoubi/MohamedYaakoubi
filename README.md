@@ -99,4 +99,6 @@ For more details, you can view the badges on [Credly](https://www.credly.com/bad
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedyaakoubi&theme=radical)
 
 ---
+## ☕ Let's have a coffee together
+
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=medykb&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/medykb)
