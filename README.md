@@ -1,5 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=mohamedyaakoubi&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
+![Visitor Count](https://profile-counter.glitch.me/{mohamedyaakoubi}/count.svg)
 ![Banner](header.png)
 
 <!--❓- Intro-->
