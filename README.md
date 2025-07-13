@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{mohamedyaakoubi}/count.svg)
+[![Mohamed Yaakoubi profile views](https://u8views.com/api/v1/github/profiles/58109706/views/day-week-month-total-count.svg)](https://u8views.com/github/mohamedyaakoubi)
 ![Banner](header.png)
 
 <!--❓- Intro-->
