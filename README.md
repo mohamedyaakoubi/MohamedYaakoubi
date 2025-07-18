@@ -97,6 +97,7 @@ For more details, you can view the badges on [Credly](https://www.credly.com/bad
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedyaakoubi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyaakoubi&layout=compact&theme=radical)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedyaakoubi)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=mohamedyaakoubi&theme=dracula)
