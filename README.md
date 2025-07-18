@@ -1,4 +1,6 @@
 [![Mohamed Yaakoubi profile views](https://u8views.com/api/v1/github/profiles/58109706/views/day-week-month-total-count.svg)](https://u8views.com/github/mohamedyaakoubi)
+
+[![wakatime](https://wakatime.com/badge/user/b20978a8-89cb-49fe-8ca0-0c531fd6656e.svg)](https://wakatime.com/@b20978a8-89cb-49fe-8ca0-0c531fd6656e)
 ![Banner](header.png)
 
 <!--❓- Intro-->
