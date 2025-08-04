@@ -54,7 +54,7 @@ Driven, adaptable, and passionate about advancing technology, I am a fast learne
 
 ### 📫 How to reach me:
 - **Phone:** +216 54711524
-- **Email:** yakoubimohamed@fss.u-sfax.tn
+- **Email:** amirrak8@gmail.com
 - **LinkedIn:** [Mohamed Yaakoubi](https://www.linkedin.com/in/yaakoubi-mohamed/)
 - **Location:** Sfax, Tunisia
 
