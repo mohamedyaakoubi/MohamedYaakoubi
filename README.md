@@ -62,7 +62,26 @@ Driven, adaptable, and passionate about advancing technology, I am a fast learne
 - I love traveling, camping, playing chess, and gaming in my free time!
 
 ## 🌐 Socials
-<p align="center"> <a href="https://www.linkedin.com/in/yaakoubi-mohamed/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.instagram.com/mohamed__yaakoubi/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="https://www.facebook.com/mohamed.yaakoubi.184907"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> <a href="https://mohamedyaakoubi.link/"> <img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar"> </a> <a href="https://www.f6s.com/mohamed-yaakoubi"> <img src="https://img.shields.io/badge/F6S-000000?style=for-the-badge&logo=f6s&logoColor=white" alt="F6S"> </a> </p>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/yaakoubi-mohamed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="https://www.instagram.com/mohamed__yaakoubi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a> 
+  <a href="https://www.facebook.com/mohamed.yaakoubi.184907">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a> 
+  <a href="https://mohamedyaakoubi.link/">
+    <img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar">
+  </a> 
+  <a href="https://www.f6s.com/mohamed-yaakoubi">
+    <img src="https://img.shields.io/badge/F6S-000000?style=for-the-badge&logo=f6s&logoColor=white" alt="F6S">
+  </a>
+  <a href="https://x.com/Mohamed0Yakoubi">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+</p>
 
 ## 🌟 Portfolios & Freelance Profiles
 <p align="center"> <a href="https://www.mohamedyaakoubi.live/"> <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=portfolio&logoColor=61DAFB" alt="Portfolio"> </a> <a href="https://www.upwork.com/freelancers/~0118c281163fef05cb?mp_source=share"> <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"> </a> <a href="https://www.fiverr.com/s/o8yV9vb"> <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"> </a> <a href="https://www.proz.com/profile/3972649"> <img src="https://img.shields.io/badge/ProZ-282C34?style=for-the-badge&logo=pro&logoColor=white" alt="ProZ"> </a> <a href="https://ubiai.tools/author/mohamedyaakoubi"> <img src="https://img.shields.io/badge/WordPress_Author-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Author"> </a> </p>
@@ -106,6 +125,9 @@ Driven, adaptable, and passionate about advancing technology, I am a fast learne
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ## Badges
 
