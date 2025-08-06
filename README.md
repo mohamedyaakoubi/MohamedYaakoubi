@@ -127,6 +127,7 @@ Driven, adaptable, and passionate about advancing technology, I am a fast learne
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-000000?style=for-the-badge&logo=tampermonkey&logoColor=white)
 
 
 ## Badges
